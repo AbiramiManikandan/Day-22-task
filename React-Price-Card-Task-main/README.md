@@ -39,4 +39,4 @@ Followig are the requirements to run this project:
 
 ## Feedback
 
-If you have any feedback, please reach out to me at vijaymayhul@gmail.com
+If you have any feedback, please reach out to me at abiramirajagopal99@gmail.com
