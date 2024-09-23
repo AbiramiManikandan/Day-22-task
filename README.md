@@ -28,7 +28,8 @@ I learned to create react project as well as to include components in it which h
 
 ## Screenshots
 
-![App Screenshot](./src/Img/demo.png)
+![Screenshot (81)](https://github.com/user-attachments/assets/cc970169-f2c3-455e-a8dd-14999a6a53ef)
+
 
 
 ## Setup
